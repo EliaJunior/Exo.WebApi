@@ -1,0 +1,1 @@
+(Solicitação) Client Side -> Controller -> Repository -> Context (fim da rota) -> Repository -> Controller -> Client Side (Retorno)

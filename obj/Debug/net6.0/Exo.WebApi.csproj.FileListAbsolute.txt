@@ -812,3 +812,4 @@ C:\Users\junio\Desktop\FullStackSenai\desenvolvimento de apis\04c - Atividade 3\
 C:\Users\junio\Desktop\FullStackSenai\desenvolvimento de apis\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\junio\Desktop\FullStackSenai\desenvolvimento de apis\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\junio\Desktop\FullStackSenai\desenvolvimento de apis\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\junio\Desktop\FullStackSenai\desenvolvimento de apis\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
